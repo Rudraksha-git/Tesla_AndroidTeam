@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408022581714",
+    "project_id": "teslaandroidteam",
+    "storage_bucket": "teslaandroidteam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408022581714:android:0028cd33b02c606fe7080b",
+        "android_client_info": {
+          "package_name": "com.example.tesla_android_team_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2Y8Glu6YIkWwdbASYYFOFvrm3gbtYcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
